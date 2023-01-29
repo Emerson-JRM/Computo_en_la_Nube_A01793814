@@ -1,0 +1,12 @@
+﻿  PruebaOMP.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\erincon2\desktop\18_maestria\tec_maestría en inteligencia artificial aplicada (mna-v)\6.- computo en la nube!\proyectosomp\pruebaomp\pruebaomp\pruebaomp.cpp(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\erincon2\desktop\18_maestria\tec_maestría en inteligencia artificial aplicada (mna-v)\6.- computo en la nube!\proyectosomp\pruebaomp\pruebaomp\pruebaomp.cpp(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\erincon2\desktop\18_maestria\tec_maestría en inteligencia artificial aplicada (mna-v)\6.- computo en la nube!\proyectosomp\pruebaomp\pruebaomp\pruebaomp.cpp(29): error C2017: illegal escape sequence
+c:\users\erincon2\desktop\18_maestria\tec_maestría en inteligencia artificial aplicada (mna-v)\6.- computo en la nube!\proyectosomp\pruebaomp\pruebaomp\pruebaomp.cpp(30): error C3014: expected a for loop following OpenMP 'parallel for' directive
+c:\users\erincon2\desktop\18_maestria\tec_maestría en inteligencia artificial aplicada (mna-v)\6.- computo en la nube!\proyectosomp\pruebaomp\pruebaomp\pruebaomp.cpp(30): error C3861: 'shared': identifier not found
+c:\users\erincon2\desktop\18_maestria\tec_maestría en inteligencia artificial aplicada (mna-v)\6.- computo en la nube!\proyectosomp\pruebaomp\pruebaomp\pruebaomp.cpp(30): error C2143: syntax error: missing ';' before 'private'
+c:\users\erincon2\desktop\18_maestria\tec_maestría en inteligencia artificial aplicada (mna-v)\6.- computo en la nube!\proyectosomp\pruebaomp\pruebaomp\pruebaomp.cpp(30): error C2059: syntax error: 'private'
+c:\users\erincon2\desktop\18_maestria\tec_maestría en inteligencia artificial aplicada (mna-v)\6.- computo en la nube!\proyectosomp\pruebaomp\pruebaomp\pruebaomp.cpp(33): warning C4552: '<': result of expression not used
+c:\users\erincon2\desktop\18_maestria\tec_maestría en inteligencia artificial aplicada (mna-v)\6.- computo en la nube!\proyectosomp\pruebaomp\pruebaomp\pruebaomp.cpp(33): error C2059: syntax error: ')'
+c:\users\erincon2\desktop\18_maestria\tec_maestría en inteligencia artificial aplicada (mna-v)\6.- computo en la nube!\proyectosomp\pruebaomp\pruebaomp\pruebaomp.cpp(34): error C2146: syntax error: missing ';' before identifier 'c'
